@@ -1,3 +1,5 @@
 class Demo {
-  System.out.println("Hii Iam Sravani");
+  public static void main() {
+    System.out.println("This is my First Repo");
+  }
 }
